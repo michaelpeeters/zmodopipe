@@ -31,7 +31,7 @@
 # Debug files
 *.dSYM/
 
-/Makefile
+Makefile
 
 Makefile.in
 /aclocal.m4
@@ -44,3 +44,4 @@ Makefile.in
 .dirstamp
 *.o
 *~
+src/zmodopipe
